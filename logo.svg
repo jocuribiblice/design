@@ -37,9 +37,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000001"
-     inkscape:cx="642.31583"
-     inkscape:cy="521.05578"
+     inkscape:zoom="0.98994951"
+     inkscape:cx="348.16584"
+     inkscape:cy="555.59268"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -66,80 +66,40 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#f3bc3c;fill-opacity:1;stroke:none;stroke-width:3.14444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect993"
-       width="87.981567"
-       height="45.346756"
-       x="33.468994"
-       y="19.067713" />
-    <g
-       id="g1003">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:28.7588px;line-height:1.25;font-family:sans-serif;fill:#613e26;fill-opacity:1;stroke:#613e26;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter989)"
-         x="47.893658"
-         y="44.704842"
-         id="text855"><tspan
-           sodipodi:role="line"
-           id="tspan853"
-           x="47.893658"
-           y="44.704842"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#613e26;fill-opacity:1;stroke:#613e26;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">jocuri </tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:28.7588px;line-height:1.25;font-family:sans-serif;fill:#c61600;fill-opacity:1;stroke:#ffffff;stroke-width:3.419;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-         x="47.280739"
-         y="43.85527"
-         id="text835"><tspan
-           sodipodi:role="line"
-           id="tspan833"
-           x="47.280739"
-           y="43.85527"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#c61600;fill-opacity:1;stroke-width:3.419;stroke:#ffffff;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none">jocuri</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12.8893px;line-height:1.25;font-family:sans-serif;fill:#613e26;fill-opacity:1;stroke:none;stroke-width:0.322234;"
-         x="58.049904"
-         y="58.454113"
-         id="text839"><tspan
-           sodipodi:role="line"
-           id="tspan837"
-           x="58.049904"
-           y="58.454113"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#613e26;fill-opacity:1;stroke-width:0.322234;">BIBLICE</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:28.7588px;line-height:1.25;font-family:sans-serif;fill:#c61600;fill-opacity:1;stroke:none;stroke-width:3.419;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
-         x="47.280739"
-         y="43.85527"
-         id="text851"><tspan
-           sodipodi:role="line"
-           id="tspan849"
-           x="47.280739"
-           y="43.85527"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#c61600;fill-opacity:1;stroke-width:3.419;stroke:none;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;">jocuri</tspan></text>
-    </g>
-    <rect
        style="fill:#f3bc3c;fill-opacity:1;stroke:none;stroke-width:4.37994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1005"
        width="87.982002"
        height="87.982002"
        x="32.619991"
-       y="85.076286" />
+       y="85.076286"
+       inkscape:export-xdpi="288.6954"
+       inkscape:export-ydpi="288.6954" />
     <g
        id="g1023"
-       transform="translate(-0.84878539,87.326197)">
+       transform="translate(-0.84878539,87.326197)"
+       inkscape:export-xdpi="288.6954"
+       inkscape:export-ydpi="288.6954">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:28.7588px;line-height:1.25;font-family:sans-serif;fill:#613e26;fill-opacity:1;stroke:#613e26;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter989)"
-         x="47.893658"
-         y="44.704842"
+         x="48.357407"
+         y="7.2576623"
          id="text1009"><tspan
            sodipodi:role="line"
            id="tspan1007"
-           x="47.893658"
-           y="44.704842"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#613e26;fill-opacity:1;stroke:#613e26;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">jocuri </tspan></text>
+           x="48.357407"
+           y="7.2576623"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#613e26;fill-opacity:1;stroke:#613e26;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"> </tspan><tspan
+           sodipodi:role="line"
+           x="48.357407"
+           y="44.668179"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#613e26;fill-opacity:1;stroke:#613e26;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="tspan866">jocuri </tspan><tspan
+           sodipodi:role="line"
+           x="48.357407"
+           y="82.07869"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#613e26;fill-opacity:1;stroke:#613e26;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="tspan864" /></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:28.7588px;line-height:1.25;font-family:sans-serif;fill:#c61600;fill-opacity:1;stroke:#ffffff;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -170,63 +130,6 @@
          id="text1021"><tspan
            sodipodi:role="line"
            id="tspan1019"
-           x="47.280739"
-           y="43.85527"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#c61600;fill-opacity:1;stroke:none;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">jocuri</tspan></text>
-    </g>
-    <rect
-       style="fill:#f3bc3c;fill-opacity:1;stroke:none;stroke-width:4.37994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1025"
-       width="87.982002"
-       height="87.982002"
-       x="159.9398"
-       y="55.588654"
-       ry="43.991001"
-       rx="43.991001" />
-    <g
-       id="g1043"
-       transform="translate(126.47103,57.838564)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:28.7588px;line-height:1.25;font-family:sans-serif;fill:#613e26;fill-opacity:1;stroke:#613e26;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter989)"
-         x="47.893658"
-         y="44.704842"
-         id="text1029"><tspan
-           sodipodi:role="line"
-           id="tspan1027"
-           x="47.893658"
-           y="44.704842"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#613e26;fill-opacity:1;stroke:#613e26;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">jocuri </tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:28.7588px;line-height:1.25;font-family:sans-serif;fill:#c61600;fill-opacity:1;stroke:#ffffff;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="47.280739"
-         y="43.85527"
-         id="text1033"><tspan
-           sodipodi:role="line"
-           id="tspan1031"
-           x="47.280739"
-           y="43.85527"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#c61600;fill-opacity:1;stroke:#ffffff;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">jocuri</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12.8893px;line-height:1.25;font-family:sans-serif;fill:#613e26;fill-opacity:1;stroke:none;stroke-width:0.322234"
-         x="58.049904"
-         y="58.454113"
-         id="text1037"><tspan
-           sodipodi:role="line"
-           id="tspan1035"
-           x="58.049904"
-           y="58.454113"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#613e26;fill-opacity:1;stroke-width:0.322234">BIBLICE</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:28.7588px;line-height:1.25;font-family:sans-serif;fill:#c61600;fill-opacity:1;stroke:none;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="47.280739"
-         y="43.85527"
-         id="text1041"><tspan
-           sodipodi:role="line"
-           id="tspan1039"
            x="47.280739"
            y="43.85527"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#c61600;fill-opacity:1;stroke:none;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">jocuri</tspan></text>

@@ -29,6 +29,20 @@
          stdDeviation="0.72434558"
          id="feGaussianBlur991" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath952">
+      <g
+         aria-label="j"
+         id="g956"
+         style="font-style:normal;font-weight:normal;font-size:206.279px;line-height:1.25;font-family:sans-serif;fill:#c61600;fill-opacity:1;stroke:none;stroke-width:24.5236;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(102.25798,14.696104)">
+        <path
+           d="m 237.11304,238.37648 q -3.02166,-2.61878 -2.61877,-5.64044 0.40289,-3.02167 2.61877,-5.23756 2.01445,-2.01444 5.23756,-2.61877 3.22311,-0.40289 6.04333,2.21589 8.05777,7.05055 19.13721,11.28088 10.87799,4.23033 21.75599,3.22311 4.02889,-0.40289 7.85633,-2.01444 4.02888,-1.61156 6.24477,-5.03611 2.82022,-4.02889 3.626,-8.66211 1.00722,-4.63322 1.20867,-9.46788 0.20144,-13.49678 -3.22311,-26.7921 -3.22311,-13.09388 -6.24478,-26.18777 -3.42455,-14.30254 -5.64044,-28.80654 -2.21589,-14.50399 -0.60433,-29.00798 0.40289,-3.42456 2.41733,-5.640444 2.01444,-2.417332 5.64044,-2.417332 3.02167,0 5.64044,2.417332 2.82022,2.215884 2.41734,5.640444 -1.61156,16.31699 1.20866,32.23109 3.02167,15.91411 6.84911,31.82821 1.813,7.05055 3.42455,14.50399 1.813,7.45344 2.82022,14.90688 1.20867,7.65489 1.20867,15.10833 0.20144,7.65488 -1.41011,14.90688 -1.41011,6.44622 -4.63322,11.88522 -3.02167,5.64044 -8.25922,9.66932 -5.03611,3.82745 -11.48233,5.439 -6.24477,1.813 -12.48955,1.813 -13.49677,-0.20144 -26.18776,-5.439 -12.69099,-5.23755 -22.56177,-14.1011 z M 296.94201,74.602229 q -2.21588,-1.410111 -3.22311,-3.625999 -1.00722,-2.215887 -0.60433,-4.633219 -0.40289,-5.036109 2.01444,-7.251997 2.61878,-2.417332 5.84189,-2.417332 1.00722,0 1.813,0 1.00722,0 2.01444,0.402889 0.60434,0.201444 1.00722,0.402888 0.60434,0.201445 1.20867,0.402889 3.626,1.208666 4.83466,3.827443 0.80578,1.208666 1.00723,3.021665 0.40289,1.611555 -0.20145,3.021665 -0.60433,1.812999 -1.20866,3.021665 -1.00723,2.618777 -3.626,4.028887 -2.61878,1.41011 -5.439,0.805777 -3.22311,0.402889 -5.439,-1.007221 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#c61600;fill-opacity:1;stroke:none;stroke-width:24.5236;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path954" />
+      </g>
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -37,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994951"
-     inkscape:cx="348.16584"
-     inkscape:cy="555.59268"
+     inkscape:zoom="0.175"
+     inkscape:cx="1711.4213"
+     inkscape:cy="1170.0662"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -134,5 +148,27 @@
            y="43.85527"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Schoolbell;-inkscape-font-specification:Schoolbell;fill:#c61600;fill-opacity:1;stroke:none;stroke-width:3.419;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">jocuri</tspan></text>
     </g>
+    <rect
+       style="fill:#f3bc3c;fill-opacity:1;stroke:none;stroke-width:4.37994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect958"
+       width="87.982002"
+       height="87.982002"
+       x="307.75235"
+       y="158.74001"
+       inkscape:export-xdpi="57.739082"
+       inkscape:export-ydpi="57.739082" />
+    <path
+       id="rect892"
+       style="fill:#c61600;fill-opacity:1;stroke:none;stroke-width:4.37994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 360.77474,169.91887 h 87.982 v 87.982 h -87.982 z"
+       clip-path="url(#clipPath952)"
+       transform="translate(-53.022397,-11.178861)"
+       inkscape:export-xdpi="57.739082"
+       inkscape:export-ydpi="57.739082" />
+    <g
+       id="g914"
+       transform="translate(11.429854,209.19294)"
+       inkscape:export-xdpi="288.6954"
+       inkscape:export-ydpi="288.6954" />
   </g>
 </svg>
